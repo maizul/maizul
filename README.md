@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **maizul.islam00@gmail.com**
 - LinkedIn **https://www.linkedin.com/in/maizul-i-7b035611b/**
-- Here my codeforces account **https://codeforces.com/profile/maizul**
+
 
 
 
